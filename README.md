@@ -6,8 +6,8 @@ We have created exmaple NPL Applicaitons for users to get hands-on experience on
 
 ## Basic Packet Forwarding
 
- - [Layer-2 Switching NPL Application]()
+ - [Layer-2 Switching NPL Application](https://github.com/nplang/NPL-Example-Applications/tree/master/Layer-2)
  
- - [Layer-3 Routing & Tunneling NPL Application]()
+ - [Layer-3 Routing & Tunneling NPL Application](https://github.com/nplang/NPL-Example-Applications/tree/master/Layer-3)
  
  
