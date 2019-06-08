@@ -1,5 +1,5 @@
 
-# Layer-2 Switching
+# Layer-2 Switching NPL Example
 
 We have created sample ```l2_switch``` NPL example which define packet pipeline with Layer-2 Switching for ethernet packets. 
 
