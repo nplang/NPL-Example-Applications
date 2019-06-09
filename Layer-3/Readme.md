@@ -94,6 +94,7 @@ python bm_tests/ipv4_test/test.py
 The above test.py sends two IPV4 packets (under ipv4_test)
 
 ````
+
 1. The first packet ingress on port 0 with vlan 1 and  is routed to the destination host on port 3 with vlan 6 based on dest. IP of the packet. 
 
 2. The test packet with vlan 1 ingresses on port 5 which is switched to dest port 18 using l2_host table entries. 
@@ -110,4 +111,5 @@ $NPL_EXAMPLES/l3_app/npl/
 
 ````
 
-## Congratulations :+1: You have finished working with NPL Example Applications.
+## Congratulations :+1: :+1:
+## You have finished working with NPL Example Applications.
