@@ -110,4 +110,4 @@ $NPL_EXAMPLES/l3_app/npl/
 
 ````
 
-## Congratulations :+1: You have finished working with NPL Example Application.
+## Congratulations :+1: You have finished working with NPL Example Applications.
