@@ -10,7 +10,7 @@ Main features of this NPL program includes:
 
 At a high level below is how Layer-2 packet pipeline looks like based on this NPL Program. 
 
-![Layer-2 Pipeline](IMAGE)
+![Layer-2 Pipeline](/Layer-2/Layer-2.png)
 
 Directory Structure of Layer-2 Examples
 
