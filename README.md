@@ -11,3 +11,4 @@ We have created exmaple NPL Applicaitons for users to get hands-on experience on
  - [Layer-3 Routing & Tunneling NPL Application](https://github.com/nplang/NPL-Example-Applications/tree/master/Layer-3)
  
  
+In case if you are looking for Working Environment, you can use instructions given in [How to get Working Environment](https://github.com/nplang/NPL-Tutorials#how-to-get-a-working-environment) 
