@@ -1,6 +1,6 @@
 
 
-# Layer-2 Switching NPL Example
+# Layer-3 Switching NPL Example
 
 We have created ```l3_app``` which is simple NPL Program  to define swithcing pipeline with basic L3 Routing and Tunneling function for IP Packets. 
 
