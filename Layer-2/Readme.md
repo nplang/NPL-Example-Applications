@@ -81,6 +81,6 @@ $NPL_EXAMPLES/l2_switch/npl/
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have experienced how a simple ```Layer-2 Swicthing``` works. You can now move on to next example [Layer-3 Routing & tunneling example](https://github.com/nplang/NPL-Example-Applications/tree/master/Layer-3)
