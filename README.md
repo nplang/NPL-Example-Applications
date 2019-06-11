@@ -12,3 +12,6 @@ We have created example NPL Applications for users to get hands-on experience on
  
  
 In case if you are looking for Working Environment, you can use instructions given in [How to get Working Environment](https://github.com/nplang/NPL-Tutorials#how-to-get-a-working-environment) 
+
+# Feedback or Questions
+Feedback or questions should be sent to npl-feedback.pdl@broadcom.com.
